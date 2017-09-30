@@ -1,7 +1,10 @@
 # ECG (Electrocardiogramm) via Raspberry Pi
 
 
-This repository helps you to set up your own ecg measurement with a raspberry pi
+This work origins from a bachelor thesis in physics and teaching at the University Salzburg, Austria.
+The repository provides the necessary information to set up an ecg measurement with a raspberry pi.
+Additionally, the full thesis with detailed descriptions is available on [Research Gate](https://www.researchgate.net/publication/320133975_Elektrokardiogramm_mit_dem_Raspberry_Pi)
+
 
 
 **Note**
