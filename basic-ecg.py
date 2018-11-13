@@ -24,7 +24,7 @@ resolution = 4095
 CLK = 11  # Clock
 MISO = 9  # Master (rpi) in, Slave (MCP) out
 MOSI = 10  # Master out, Slave in
-CS = 8  # Chip Select (rpi can activate MCP)
+CS = 7  # Chip Select (rpi can activate MCP)
 
 # initialize the GPIOs (General Purpose Input and Output)
 GPIO.setwarnings(False)
